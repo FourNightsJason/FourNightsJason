@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Foolish.)](https://FourNightsJason.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=这是一行;这是第二行;还有第三行.)](https://FourNightsJason.github.io)
